@@ -18,7 +18,7 @@
         "subtext": "Professional skincare results—without the spa appointment.",
         "btn1_label": "Shop Now",
         "btn1_link": "shopify://collections/all",
-        "btn2_label": "View Collections",
+        "btn2_label": "",
         "btn2_link": "shopify://collections",
         "image_url": "",
         "image_radius": 28,
@@ -27,10 +27,10 @@
         "image_width": 1,
         "padding_top": 70,
         "padding_bottom": 70,
-        "bg_color": "#fff7f7",
-        "heading_color": "#2f2f2f",
+        "bg_color": "#F7FFF9",
+        "heading_color": "#7A9471",
         "text_color": "#555555",
-        "btn1_color": "#6b171d"
+        "btn1_color": "#7A9471"
       }
     },
     "slideshow": {
@@ -108,7 +108,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#611a20",
+        "colors_background": "#7A9471",
         "gradient_background": "",
         "padding_top": 12,
         "padding_bottom": 12
@@ -340,7 +340,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#611a20",
+        "colors_background": "#7A9471",
         "gradient_background": "",
         "padding_top": 12,
         "padding_bottom": 12
