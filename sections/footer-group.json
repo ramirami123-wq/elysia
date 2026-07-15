@@ -43,8 +43,8 @@
         "newsletter_text": "<p>Enter your email to get early access to offers and new arrivals.</p>",
         "return_url": "",
         "enable_follow_on_shop": false,
-        "show_social": true,
-        "social_heading": "Follow us on our socials",
+        "show_social": false,
+        "social_heading": "",
         "enable_country_selector": false,
         "enable_language_selector": false,
         "payment_enable": true,
@@ -54,7 +54,7 @@
         "colors_heading": "#ffffff",
         "colors_link": "#ffffff",
         "colors_border": "#e6e6e6",
-        "colors_background": "#7A9471",
+        "colors_background": "#7a9471",
         "gradient_background": "linear-gradient(180deg, rgba(122, 148, 113, 1) 100%, rgba(247, 239, 231, 1) 100%)"
       }
     }
